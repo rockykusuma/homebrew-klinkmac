@@ -1,6 +1,6 @@
 cask "klinkmac" do
-  version "1.0.2"
-  sha256 "9476fb152337c3fb22a25bb49f66f0753b6fe21ed07c85a6ebd364562cdbd52c"
+  version "1.0.3"
+  sha256 "dc9d86c3c2e8f0521883908a13b9118b7c6e8a670f79a067a1b9bd636a87eb2b"
 
   url "https://github.com/rockykusuma/klinkmac/releases/download/v#{version}/KlinkMac.dmg"
   name "KlinkMac"
